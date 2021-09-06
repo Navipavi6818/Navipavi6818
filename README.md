@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Navipavi6818
-- 👀 I’m interested in ... hacking
+- 👀 I’m interested in ... bot making
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
